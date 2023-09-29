@@ -9,7 +9,7 @@ license:
 cost: $69 - $299
 ligatures: true
 italics: true
-variable: false
+variable: true
 stylesheet_url: monolisa/style.css
 ---
 
